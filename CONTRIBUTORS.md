@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+####​ ​Name: [​GhostieSpook​](https://github.com/ghostiespook)
+​-​ Place: Roy, Utah, USA
+​-​ Bio: Wannabe Developer. Full time failure.
+​-​ GitHub: [​GhostieSpook​](https://github.com/ghostiespook)
